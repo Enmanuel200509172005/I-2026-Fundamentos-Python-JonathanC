@@ -3,7 +3,8 @@ print ("hola mundo")
 # inicializar variables
 nombre:str = "jonathan"
 
-# solicitar al usuario su edad
+
+# Solicitar al usuario su edad.......
 edad :int = int(input("¿cual es mi edad?"))
 
 # calcular año de nacimiento
