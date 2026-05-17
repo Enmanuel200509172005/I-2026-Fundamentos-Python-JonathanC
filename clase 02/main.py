@@ -1,6 +1,7 @@
 print ("hola mundo")
 
 # inicializar variables
+print = "jonathan"
 nombre:str = "jonathan"
 
 
