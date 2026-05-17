@@ -7,4 +7,6 @@ if altura >=1.80:
 else:
     print("no soy alto;)")
     print(nombre)
+    print(apellido)
+    print(edad)
     
