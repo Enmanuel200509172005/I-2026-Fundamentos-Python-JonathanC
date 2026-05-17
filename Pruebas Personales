@@ -1,0 +1,10 @@
+edad = 20
+nombre = "jonathan"
+apellido = "collado"
+altura = 1.72
+if altura >=1.80:
+    print("soy alto ;)")
+else:
+    print("no soy alto;)")
+    print(nombre)
+    
